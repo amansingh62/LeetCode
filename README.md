@@ -41,6 +41,7 @@ Solving DSA questions on Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/amansingh62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/amansingh62/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amansingh62/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
@@ -51,4 +52,8 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amansingh62/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/amansingh62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
