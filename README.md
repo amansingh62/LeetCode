@@ -7,6 +7,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/amansingh62/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/amansingh62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -18,6 +19,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/amansingh62/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +90,8 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/amansingh62/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
