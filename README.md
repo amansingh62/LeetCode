@@ -6,6 +6,7 @@ Solving DSA questions on Leetcode
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/amansingh62/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/amansingh62/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/amansingh62/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amansingh62/LeetCode/tree/master/0054-spiral-matrix) |
@@ -22,6 +23,7 @@ Solving DSA questions on Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/amansingh62/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/amansingh62/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
@@ -101,6 +103,7 @@ Solving DSA questions on Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/amansingh62/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/amansingh62/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amansingh62/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
