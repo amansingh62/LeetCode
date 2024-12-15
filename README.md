@@ -23,6 +23,7 @@ Solving DSA questions on Leetcode
 | [0958-sort-array-by-parity-ii](https://github.com/amansingh62/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amansingh62/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/amansingh62/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amansingh62/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amansingh62/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -37,6 +38,7 @@ Solving DSA questions on Leetcode
 | [0229-majority-element-ii](https://github.com/amansingh62/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amansingh62/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/amansingh62/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ Solving DSA questions on Leetcode
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amansingh62/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/amansingh62/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -130,6 +133,7 @@ Solving DSA questions on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/amansingh62/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/amansingh62/LeetCode/tree/master/0898-transpose-matrix) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/amansingh62/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 ## Counting
 |  |
 | ------- |
