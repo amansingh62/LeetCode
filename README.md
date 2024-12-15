@@ -9,6 +9,7 @@ Solving DSA questions on Leetcode
 | [0036-valid-sudoku](https://github.com/amansingh62/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/amansingh62/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/amansingh62/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/amansingh62/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/amansingh62/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -25,6 +26,7 @@ Solving DSA questions on Leetcode
 | ------- |
 | [0036-valid-sudoku](https://github.com/amansingh62/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/amansingh62/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
@@ -60,6 +62,7 @@ Solving DSA questions on Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
 | [0958-sort-array-by-parity-ii](https://github.com/amansingh62/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 ## Simulation
 |  |
@@ -71,6 +74,7 @@ Solving DSA questions on Leetcode
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/amansingh62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
 ## Greedy
