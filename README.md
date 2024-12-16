@@ -39,6 +39,7 @@ Solving DSA questions on Leetcode
 | [0041-first-missing-positive](https://github.com/amansingh62/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/amansingh62/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/amansingh62/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amansingh62/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +76,7 @@ Solving DSA questions on Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/amansingh62/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/amansingh62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/amansingh62/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0908-middle-of-the-linked-list](https://github.com/amansingh62/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -166,5 +168,6 @@ Solving DSA questions on Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/amansingh62/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/amansingh62/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
