@@ -20,6 +20,7 @@ Solving DSA questions on Leetcode
 | [0498-diagonal-traverse](https://github.com/amansingh62/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/amansingh62/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0898-transpose-matrix](https://github.com/amansingh62/LeetCode/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/amansingh62/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
@@ -75,6 +76,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/amansingh62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/amansingh62/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0958-sort-array-by-parity-ii](https://github.com/amansingh62/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amansingh62/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
