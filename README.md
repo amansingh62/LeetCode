@@ -19,6 +19,7 @@ Solving DSA questions on Leetcode
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0498-diagonal-traverse](https://github.com/amansingh62/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0898-transpose-matrix](https://github.com/amansingh62/LeetCode/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/amansingh62/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
@@ -48,6 +49,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Solving DSA questions on Leetcode
 | [0238-product-of-array-except-self](https://github.com/amansingh62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amansingh62/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/amansingh62/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -151,6 +154,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amansingh62/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/amansingh62/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amansingh62/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
