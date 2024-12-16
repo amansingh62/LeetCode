@@ -92,6 +92,7 @@ Solving DSA questions on Leetcode
 | [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/amansingh62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amansingh62/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
@@ -143,4 +144,5 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amansingh62/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
