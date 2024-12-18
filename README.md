@@ -131,6 +131,7 @@ Solving DSA questions on Leetcode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amansingh62/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/amansingh62/LeetCode/tree/master/0048-rotate-image) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amansingh62/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -170,6 +171,7 @@ Solving DSA questions on Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amansingh62/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amansingh62/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/amansingh62/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amansingh62/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -178,6 +180,7 @@ Solving DSA questions on Leetcode
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amansingh62/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amansingh62/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/amansingh62/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
