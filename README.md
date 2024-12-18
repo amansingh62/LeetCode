@@ -170,6 +170,7 @@ Solving DSA questions on Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/amansingh62/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/amansingh62/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amansingh62/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/amansingh62/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -177,5 +178,6 @@ Solving DSA questions on Leetcode
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/amansingh62/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/amansingh62/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
