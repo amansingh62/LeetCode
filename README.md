@@ -120,6 +120,7 @@ Solving DSA questions on Leetcode
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/amansingh62/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/amansingh62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amansingh62/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -200,6 +201,7 @@ Solving DSA questions on Leetcode
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/amansingh62/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amansingh62/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/amansingh62/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/amansingh62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
