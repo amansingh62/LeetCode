@@ -11,6 +11,7 @@ Solving DSA questions on Leetcode
 | [0048-rotate-image](https://github.com/amansingh62/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/amansingh62/LeetCode/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/amansingh62/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amansingh62/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/amansingh62/LeetCode/tree/master/0169-majority-element) |
