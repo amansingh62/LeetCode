@@ -8,6 +8,7 @@ Solving DSA questions on Leetcode
 | ------- |
 | [0036-valid-sudoku](https://github.com/amansingh62/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/amansingh62/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/amansingh62/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/amansingh62/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/amansingh62/LeetCode/tree/master/0054-spiral-matrix) |
@@ -86,6 +87,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amansingh62/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/amansingh62/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/amansingh62/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amansingh62/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/amansingh62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -208,6 +210,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/amansingh62/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/amansingh62/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amansingh62/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/amansingh62/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/amansingh62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -218,6 +221,7 @@ Solving DSA questions on Leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amansingh62/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amansingh62/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/amansingh62/LeetCode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/amansingh62/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -225,5 +229,6 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/amansingh62/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/amansingh62/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/amansingh62/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
