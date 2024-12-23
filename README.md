@@ -22,6 +22,7 @@ Solving DSA questions on Leetcode
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0498-diagonal-traverse](https://github.com/amansingh62/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/amansingh62/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/amansingh62/LeetCode/tree/master/0735-asteroid-collision) |
@@ -65,6 +66,7 @@ Solving DSA questions on Leetcode
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/amansingh62/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/amansingh62/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
