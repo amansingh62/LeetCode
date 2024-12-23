@@ -65,6 +65,7 @@ Solving DSA questions on Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amansingh62/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/amansingh62/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amansingh62/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -164,6 +165,7 @@ Solving DSA questions on Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/amansingh62/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/amansingh62/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/amansingh62/LeetCode/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amansingh62/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amansingh62/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
