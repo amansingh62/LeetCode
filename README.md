@@ -31,6 +31,7 @@ Solving DSA questions on Leetcode
 | [0860-design-circular-queue](https://github.com/amansingh62/LeetCode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/amansingh62/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/amansingh62/LeetCode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/amansingh62/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/amansingh62/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/amansingh62/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
@@ -71,6 +72,7 @@ Solving DSA questions on Leetcode
 | [0540-single-element-in-a-sorted-array](https://github.com/amansingh62/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/amansingh62/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/amansingh62/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
