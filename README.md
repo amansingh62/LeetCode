@@ -21,6 +21,7 @@ Solving DSA questions on Leetcode
 | [0238-product-of-array-except-self](https://github.com/amansingh62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/amansingh62/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amansingh62/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ Solving DSA questions on Leetcode
 | [0069-sqrtx](https://github.com/amansingh62/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/amansingh62/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amansingh62/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/amansingh62/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -142,6 +144,7 @@ Solving DSA questions on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
 ## Design
 |  |
@@ -158,6 +161,7 @@ Solving DSA questions on Leetcode
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amansingh62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amansingh62/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -259,5 +263,6 @@ Solving DSA questions on Leetcode
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/amansingh62/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amansingh62/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/amansingh62/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
