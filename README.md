@@ -24,6 +24,7 @@ Solving DSA questions on Leetcode
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/amansingh62/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amansingh62/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amansingh62/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -268,9 +269,19 @@ Solving DSA questions on Leetcode
 | [0032-longest-valid-parentheses](https://github.com/amansingh62/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amansingh62/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0943-sum-of-subarray-minimums](https://github.com/amansingh62/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/amansingh62/LeetCode/tree/master/0046-permutations) |
+| [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
