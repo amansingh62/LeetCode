@@ -275,6 +275,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0046-permutations](https://github.com/amansingh62/LeetCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/amansingh62/LeetCode/tree/master/0077-combinations) |
 | [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
