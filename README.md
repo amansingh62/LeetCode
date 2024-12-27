@@ -18,6 +18,7 @@ Solving DSA questions on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amansingh62/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amansingh62/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/amansingh62/LeetCode/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/amansingh62/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amansingh62/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/amansingh62/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -278,10 +279,12 @@ Solving DSA questions on Leetcode
 | [0046-permutations](https://github.com/amansingh62/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amansingh62/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/amansingh62/LeetCode/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/amansingh62/LeetCode/tree/master/0090-subsets-ii) |
 | [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/amansingh62/LeetCode/tree/master/0090-subsets-ii) |
 | [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Bitmask
 |  |
