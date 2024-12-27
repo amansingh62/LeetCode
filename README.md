@@ -12,6 +12,7 @@ Solving DSA questions on Leetcode
 | [0046-permutations](https://github.com/amansingh62/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/amansingh62/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/amansingh62/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/amansingh62/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/amansingh62/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/amansingh62/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -275,6 +276,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0046-permutations](https://github.com/amansingh62/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/amansingh62/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/amansingh62/LeetCode/tree/master/0077-combinations) |
 | [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
