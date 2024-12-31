@@ -148,6 +148,7 @@ Solving DSA questions on Leetcode
 | [0049-group-anagrams](https://github.com/amansingh62/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/amansingh62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/amansingh62/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/amansingh62/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amansingh62/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -162,6 +163,7 @@ Solving DSA questions on Leetcode
 | [0155-min-stack](https://github.com/amansingh62/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amansingh62/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amansingh62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/amansingh62/LeetCode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/amansingh62/LeetCode/tree/master/0931-maximum-frequency-stack) |
@@ -309,6 +311,7 @@ Solving DSA questions on Leetcode
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -320,6 +323,7 @@ Solving DSA questions on Leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -334,6 +338,7 @@ Solving DSA questions on Leetcode
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -345,6 +350,7 @@ Solving DSA questions on Leetcode
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
