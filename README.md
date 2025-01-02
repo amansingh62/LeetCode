@@ -308,6 +308,7 @@ Solving DSA questions on Leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/amansingh62/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/amansingh62/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -337,6 +338,7 @@ Solving DSA questions on Leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/amansingh62/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/amansingh62/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -351,6 +353,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/amansingh62/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
