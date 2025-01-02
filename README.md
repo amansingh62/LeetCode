@@ -283,6 +283,7 @@ Solving DSA questions on Leetcode
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/amansingh62/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amansingh62/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amansingh62/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0943-sum-of-subarray-minimums](https://github.com/amansingh62/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -316,6 +317,7 @@ Solving DSA questions on Leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/amansingh62/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amansingh62/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -350,6 +352,7 @@ Solving DSA questions on Leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/amansingh62/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amansingh62/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -368,6 +371,7 @@ Solving DSA questions on Leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/amansingh62/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amansingh62/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
