@@ -97,6 +97,7 @@ Solving DSA questions on Leetcode
 | [0169-majority-element](https://github.com/amansingh62/LeetCode/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Solving DSA questions on Leetcode
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
+| [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -347,6 +349,7 @@ Solving DSA questions on Leetcode
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/amansingh62/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -393,6 +396,7 @@ Solving DSA questions on Leetcode
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/amansingh62/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -417,6 +421,7 @@ Solving DSA questions on Leetcode
 | [0776-n-ary-tree-postorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/amansingh62/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -431,6 +436,7 @@ Solving DSA questions on Leetcode
 | [0784-insert-into-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/amansingh62/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
