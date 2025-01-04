@@ -154,6 +154,7 @@ Solving DSA questions on Leetcode
 | [0151-reverse-words-in-a-string](https://github.com/amansingh62/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/amansingh62/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/amansingh62/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0979-di-string-match](https://github.com/amansingh62/LeetCode/tree/master/0979-di-string-match) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/amansingh62/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amansingh62/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -170,6 +171,7 @@ Solving DSA questions on Leetcode
 | [0232-implement-queue-using-stacks](https://github.com/amansingh62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/amansingh62/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0860-design-circular-queue](https://github.com/amansingh62/LeetCode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/amansingh62/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amansingh62/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -327,6 +329,7 @@ Solving DSA questions on Leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/amansingh62/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/amansingh62/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -350,6 +353,7 @@ Solving DSA questions on Leetcode
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/amansingh62/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/amansingh62/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -372,6 +376,7 @@ Solving DSA questions on Leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/amansingh62/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/amansingh62/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -397,6 +402,7 @@ Solving DSA questions on Leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/amansingh62/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/amansingh62/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amansingh62/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -412,6 +418,7 @@ Solving DSA questions on Leetcode
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/amansingh62/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/amansingh62/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
