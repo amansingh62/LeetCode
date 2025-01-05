@@ -300,6 +300,7 @@ Solving DSA questions on Leetcode
 | [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0943-sum-of-subarray-minimums](https://github.com/amansingh62/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -358,6 +359,7 @@ Solving DSA questions on Leetcode
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/amansingh62/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -412,6 +414,7 @@ Solving DSA questions on Leetcode
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/amansingh62/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -442,6 +445,7 @@ Solving DSA questions on Leetcode
 | [0975-range-sum-of-bst](https://github.com/amansingh62/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/amansingh62/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -462,6 +466,7 @@ Solving DSA questions on Leetcode
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/amansingh62/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
