@@ -173,6 +173,7 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/amansingh62/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/amansingh62/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/amansingh62/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amansingh62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -275,6 +276,7 @@ Solving DSA questions on Leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/amansingh62/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/amansingh62/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/amansingh62/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/amansingh62/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amansingh62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/amansingh62/LeetCode/tree/master/0735-asteroid-collision) |
@@ -337,6 +339,7 @@ Solving DSA questions on Leetcode
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amansingh62/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/amansingh62/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -396,6 +399,7 @@ Solving DSA questions on Leetcode
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amansingh62/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amansingh62/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/amansingh62/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/amansingh62/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -460,6 +464,7 @@ Solving DSA questions on Leetcode
 | [0099-recover-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/amansingh62/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/amansingh62/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/amansingh62/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -484,4 +489,8 @@ Solving DSA questions on Leetcode
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/amansingh62/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/amansingh62/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
