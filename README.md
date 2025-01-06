@@ -54,6 +54,7 @@ Solving DSA questions on Leetcode
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/amansingh62/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amansingh62/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amansingh62/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Solving DSA questions on Leetcode
 | [0882-peak-index-in-a-mountain-array](https://github.com/amansingh62/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/amansingh62/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/amansingh62/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -367,6 +369,7 @@ Solving DSA questions on Leetcode
 | [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/amansingh62/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -426,6 +429,7 @@ Solving DSA questions on Leetcode
 | [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/amansingh62/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -460,6 +464,7 @@ Solving DSA questions on Leetcode
 | [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/amansingh62/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -485,6 +490,7 @@ Solving DSA questions on Leetcode
 | [1285-balance-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/amansingh62/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
