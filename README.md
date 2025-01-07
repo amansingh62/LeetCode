@@ -34,6 +34,7 @@ Solving DSA questions on Leetcode
 | [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/amansingh62/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amansingh62/LeetCode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/amansingh62/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/amansingh62/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0860-design-circular-queue](https://github.com/amansingh62/LeetCode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/amansingh62/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -304,6 +305,7 @@ Solving DSA questions on Leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/amansingh62/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0747-min-cost-climbing-stairs](https://github.com/amansingh62/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/amansingh62/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
