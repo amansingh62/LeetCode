@@ -52,6 +52,7 @@ Solving DSA questions on Leetcode
 | [0987-reveal-cards-in-increasing-order](https://github.com/amansingh62/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amansingh62/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1087-longest-arithmetic-subsequence](https://github.com/amansingh62/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/amansingh62/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amansingh62/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -81,6 +82,7 @@ Solving DSA questions on Leetcode
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amansingh62/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/amansingh62/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amansingh62/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1087-longest-arithmetic-subsequence](https://github.com/amansingh62/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/amansingh62/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/amansingh62/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/amansingh62/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -95,6 +97,7 @@ Solving DSA questions on Leetcode
 | [0713-subarray-product-less-than-k](https://github.com/amansingh62/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/amansingh62/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/amansingh62/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1087-longest-arithmetic-subsequence](https://github.com/amansingh62/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/amansingh62/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/amansingh62/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Divide and Conquer
@@ -317,6 +320,7 @@ Solving DSA questions on Leetcode
 | [0526-beautiful-arrangement](https://github.com/amansingh62/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0747-min-cost-climbing-stairs](https://github.com/amansingh62/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/amansingh62/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1087-longest-arithmetic-subsequence](https://github.com/amansingh62/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/amansingh62/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
