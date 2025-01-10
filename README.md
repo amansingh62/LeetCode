@@ -29,6 +29,7 @@ Solving DSA questions on Leetcode
 | [0303-range-sum-query-immutable](https://github.com/amansingh62/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amansingh62/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/amansingh62/LeetCode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/amansingh62/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amansingh62/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/amansingh62/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -314,6 +315,7 @@ Solving DSA questions on Leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/amansingh62/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/amansingh62/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/amansingh62/LeetCode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/amansingh62/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/amansingh62/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amansingh62/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/amansingh62/LeetCode/tree/master/0518-coin-change-ii) |
